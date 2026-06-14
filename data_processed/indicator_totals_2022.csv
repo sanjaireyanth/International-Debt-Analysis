@@ -1,0 +1,243 @@
+series_code,series_name,measure_type,debt_value_usd,value_billions_usd
+DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)",total_external_debt_stock,8682571533789.5,8682.5715337895
+DT.DOD.DLXF.CD,"External debt stocks, long-term (DOD, current US$)",debt_stock,6043850455013.2,6043.8504550132
+DT.DOD.VTOT.CD,"External debt stocks, variable rate (DOD, current US$)",debt_stock,3674936445971.1,3674.9364459711
+DT.DOD.DPPG.CD,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",debt_stock,3384176889377.0,3384.176889377
+DT.DOD.PUBS.CD,"External debt stocks, long-term public sector (DOD, current US$)",debt_stock,3365910842311.0,3365.910842311
+DT.DOD.DEPS.CD,"External debt stocks, public sector (PPG) (DOD, current US$)",debt_stock,3364466638311.0,3364.466638311
+DT.DOD.PRVS.CD,"External debt stocks, long-term private sector (DOD, current US$)",debt_stock,2677934272759.6,2677.9342727596
+DT.DOD.DPNG.CD,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",debt_stock,2659668225691.6,2659.6682256916
+DT.DOD.DEGG.CD,"External debt stocks, general government sector (PPG) (DOD, current US$)",debt_stock,2522164796442.5,2522.1647964425
+DT.DOD.DSTC.CD,"External debt stocks, short-term (DOD, current US$)",debt_stock,2257871167269.6,2257.8711672696
+DT.DOD.PNGC.CD,"PNG, commercial banks and other creditors (DOD, current US$)",other_debt_monetary,2065179408603.3,2065.1794086033
+DT.DOD.PBND.CD,"PPG, bonds (DOD, current US$)",other_debt_monetary,1643305393751.7,1643.3053937517
+DT.DOD.PBND.PS.CD,"PS, bonds (DOD, current US$)",other_debt_monetary,1626175393751.7,1626.1753937516999
+DT.DOD.OFFT.CD,"PPG, official creditors (DOD, current US$)",other_debt_monetary,1335818328471.9,1335.8183284718998
+DT.DOD.OFFT.PS.CD,"PS, official creditors (DOD, current US$)",other_debt_monetary,1334593111820.9,1334.5931118208998
+DT.TDS.DECT.CD,"Debt service on external debt, total (TDS, current US$)",debt_service,1267444481947.1,1267.4444819471
+DT.DOD.PBND.GG.CD,"GG, bonds (DOD, current US$)",other_debt_monetary,1254578395832.7,1254.5783958327
+DT.DOD.OFFT.GG.CD,"GG, official creditors (DOD, current US$)",other_debt_monetary,1175577390343.1,1175.5773903431002
+DT.TDS.DLXF.CD,"Debt service on external debt, long-term (TDS, current US$)",debt_service,1147509284808.7,1147.5092848087
+DT.DOD.VPPG.CD,"External debt stocks, variable rate public and publicly guaranteed debt (PPG) (DOD, current US$)",debt_stock,1015267794184.6,1015.2677941846
+DT.DIS.DLTF.CD,"Disbursements on external debt, long-term + IMF (DIS, current US$)",disbursement,994906611554.2,994.9066115541999
+DT.AMT.DLTF.CD,"Principal repayments on external debt, long-term + IMF (AMT, current US$)",principal_repayment,971302092423.2999,971.3020924232999
+DT.DIS.DLXF.CD,"Disbursements on external debt, long-term (DIS, current US$)",disbursement,958945583880.9,958.9455838809
+DT.AMT.DLXF.CD,"Principal repayments on external debt, long-term (AMT, current US$)",principal_repayment,948494907635.2,948.4949076352
+DT.DOD.DOPS.CD,"External debt stocks, other public sector (PPG) (DOD, current US$)",debt_stock,795587801629.4,795.5878016294
+DT.TDS.DPNG.CD,"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",debt_service,746425830222.6,746.4258302226
+DT.AMT.DPNG.CD,"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",principal_repayment,655717624030.2,655.7176240302
+DT.UND.DPPG.CD,"Undisbursed external debt, total (UND, current US$)",other_debt_monetary,654647422042.6,654.6474220425999
+DT.DIS.DPNG.CD,"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",disbursement,603584537244.6,603.5845372446
+DT.DOD.PNGB.CD,"PNG, bonds (DOD, current US$)",other_debt_monetary,594488818929.1,594.4888189290999
+DT.TDS.PNGC.CD,"PNG, commercial banks and other creditors (TDS, current US$)",other_debt_monetary,593228586132.2,593.2285861322
+DT.DIS.PNGC.CD,"PNG, commercial banks and other creditors (DIS, current US$)",other_debt_monetary,541827193830.4,541.8271938304
+DT.AMT.PNGC.CD,"PNG, commercial banks and other creditors (AMT, current US$)",other_debt_monetary,538924346265.2,538.9243462652
+DT.UND.OFFT.CD,"Undisbursed external debt, official creditors (UND, current US$)",other_debt_monetary,537342314095.7,537.3423140957
+DT.COM.DPPG.CD,"Commitments, public and publicly guaranteed (COM, current US$)",commitment,412791898716.7,412.7918987167
+DT.TDS.DPPG.CD,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",debt_service,401084009536.8,401.0840095368
+DT.TDS.DEPS.CD,"Debt service on external debt, public sector (PPG) (TDS, current US$)",debt_service,400136094606.5,400.1360946065
+DT.DOD.DIMF.CD,"Use of IMF credit and SDR allocations (DOD, current US$)",imf_credit,380855178620.2,380.85517862020004
+DT.DOD.PBND.OPS.CD,"OPS, bonds (DOD, current US$)",other_debt_monetary,371133360146.0,371.133360146
+DT.DOD.ALLC.CD,"External debt stocks, concessional (DOD, current US$)",debt_stock,367249354520.9,367.2493545209
+DT.DIS.DPPG.CD,"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",disbursement,355361093479.8,355.3610934798
+DT.DIS.DEPS.CD,"Disbursements on external debt, public sector (PPG) (DIS, current US$)",disbursement,354986947173.0,354.986947173
+DT.DOD.PCBK.CD,"PPG, commercial banks (DOD, current US$)",other_debt_monetary,314376747706.2,314.37674770620004
+DT.DOD.PCBK.PS.CD,"PS, commercial banks (DOD, current US$)",other_debt_monetary,313021938757.2,313.0219387572
+DT.INT.DECT.CD,"Interest payments on external debt, total (INT, current US$)",interest_payment,296142636782.6,296.1426367826
+DT.AMT.DPPG.CD,"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",principal_repayment,292777173694.1,292.7771736941
+DT.AMT.DEPS.CD,"Principal repayments on external debt, public sector (PPG) (AMT, current US$)",principal_repayment,292395763712.5,292.3957637125
+DT.TDS.DEGG.CD,"Debt service on external debt, general government sector (PPG) (TDS, current US$)",debt_service,261824552929.4,261.8245529294
+DT.COM.PRVT.CD,"Commitments, private creditors (COM, current US$)",commitment,250198224861.4,250.1982248614
+DT.DIS.DEGG.CD,"Disbursements on external debt, general government sector (PPG) (DIS, current US$)",disbursement,227757700007.8,227.7577000078
+DT.DOD.PCBK.OPS.CD,"OPS, commercial banks (DOD, current US$)",other_debt_monetary,226361053810.1,226.3610538101
+DT.TDS.PBND.CD,"PPG, bonds (TDS, current US$)",other_debt_monetary,218990915946.9,218.9909159469
+DT.TDS.PBND.PS.CD,"PS, bonds (TDS, current US$)",other_debt_monetary,218518453453.9,218.51845345389998
+DT.INT.DLXF.CD,"Interest payments on external debt, long-term (INT, current US$)",interest_payment,199014866998.0,199.014866998
+DT.AMT.DEGG.CD,"Principal repayments on external debt, general government sector (PPG) (AMT, current US$)",principal_repayment,186061094191.4,186.0610941914
+DT.DIS.OFFT.CD,"PPG, official creditors (DIS, current US$)",other_debt_monetary,165206443415.4,165.2064434154
+DT.DIS.OFFT.PS.CD,"PS, official creditors (DIS, current US$)",other_debt_monetary,165119975624.6,165.11997562460002
+DT.COM.OFFT.CD,"Commitments, official creditors (COM, current US$)",commitment,162593673858.2,162.59367385820002
+DT.TDS.PBND.GG.CD,"GG, bonds (TDS, current US$)",other_debt_monetary,160116568179.7,160.1165681797
+DT.TDS.PNGB.CD,"PNG, bonds (TDS, current US$)",other_debt_monetary,153196929993.4,153.1969299934
+DT.DIS.OFFT.GG.CD,"GG, official creditors (DIS, current US$)",other_debt_monetary,149886180200.2,149.88618020020002
+DT.AMT.PBND.CD,"PPG, bonds (AMT, current US$)",other_debt_monetary,148350675347.9,148.3506753479
+DT.AMT.PBND.PS.CD,"PS, bonds (AMT, current US$)",other_debt_monetary,148350675347.9,148.3506753479
+DT.DOD.DIMF.US.CD,"Use of IMF credit (DOD, current US$)",imf_credit,147020809255.7,147.02080925570002
+DT.TDS.DOPS.CD,"Debt service on external debt, other public sector (PPG) (TDS, current US$)",debt_service,132514095363.7,132.5140953637
+DT.DIS.DOPS.CD,"Disbursements on external debt, other public sector (PPG) (DIS, current US$)",disbursement,121549521992.4,121.54952199239999
+DT.COM.MLAT.CD,"Commitments, multilateral creditors (COM, current US$)",commitment,119994299425.9,119.9942994259
+DT.DOD.OFFT.OPS.CD,"OPS, official creditors (DOD, current US$)",other_debt_monetary,118773332001.2,118.7733320012
+DT.UND.PRVT.CD,"Undisbursed external debt, private creditors (UND, current US$)",other_debt_monetary,117305107951.4,117.30510795139999
+DT.AMT.PNGB.CD,"PNG, bonds (AMT, current US$)",other_debt_monetary,116792833640.0,116.79283364
+DT.INT.VTOT.CD,"Interest payments on variable rate external debt, long-term (INT, current US$)",interest_payment,112031373922.4,112.0313739224
+DT.DIS.PBND.CD,"PPG, bonds (DIS, current US$)",other_debt_monetary,110220775415.2,110.2207754152
+DT.DIS.PBND.PS.CD,"PS, bonds (DIS, current US$)",other_debt_monetary,110220775415.2,110.2207754152
+DT.INT.DPPG.CD,"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",interest_payment,108306835844.3,108.3068358443
+DT.TDS.OFFT.CD,"PPG, official creditors (TDS, current US$)",other_debt_monetary,107870730744.0,107.870730744
+DT.INT.DEPS.CD,"Interest payments on external debt, public sector (PPG) (INT, current US$)",interest_payment,107740330894.2,107.7403308942
+DT.TDS.OFFT.PS.CD,"PS, official creditors (TDS, current US$)",other_debt_monetary,107665241741.2,107.66524174119999
+DT.AMT.PBND.GG.CD,"GG, bonds (AMT, current US$)",other_debt_monetary,106700871909.8,106.7008719098
+DT.AMT.DOPS.CD,"Principal repayments on external debt, other public sector (PPG) (AMT, current US$)",principal_repayment,101976603836.0,101.976603836
+DT.INT.DPNG.CD,"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",interest_payment,90708031153.8,90.70803115380001
+DT.INT.DSTC.CD,"Interest payments on external debt, short-term (INT, current US$)",interest_payment,90158332000.0,90.158332
+DT.TDS.OFFT.GG.CD,"GG, official creditors (TDS, current US$)",other_debt_monetary,84771569307.9,84.7715693079
+DT.NFL.OFFT.GG.CD,"GG, official creditors (NFL, current US$)",other_debt_monetary,84513455948.6,84.51345594860001
+DT.AMT.OFFT.CD,"PPG, official creditors (AMT, current US$)",other_debt_monetary,84117570741.5,84.1175707415
+DT.AMT.OFFT.PS.CD,"PS, official creditors (AMT, current US$)",other_debt_monetary,83940452239.9,83.9404522399
+DT.NFL.OFFT.PS.CD,"PS, official creditors (NFL, current US$)",other_debt_monetary,81179523383.6,81.1795233836
+DT.NFL.OFFT.CD,"PPG, official creditors (NFL, current US$)",other_debt_monetary,81088872673.0,81.088872673
+DT.DOD.PCBK.GG.CD,"GG, commercial banks (DOD, current US$)",other_debt_monetary,80845173020.7,80.8451730207
+DT.INT.DEGG.CD,"Interest payments on external debt, general government sector (PPG) (INT, current US$)",interest_payment,75763458736.6,75.7634587366
+DT.INT.PBND.CD,"PPG, bonds (INT, current US$)",other_debt_monetary,70640240600.2,70.6402406002
+DT.INT.PBND.PS.CD,"PS, bonds (INT, current US$)",other_debt_monetary,70167778107.2,70.1677781072
+DT.AMT.OFFT.GG.CD,"GG, official creditors (AMT, current US$)",other_debt_monetary,65372724245.2,65.37272424519999
+DT.NTR.OFFT.GG.CD,"GG, official creditors (NTR, current US$)",other_debt_monetary,65114610884.7,65.1146108847
+DT.NFL.DEPS.CD,"Net flows on external debt, public sector (PPG) (NFL, current US$)",net_flow,62591183459.6,62.591183459599996
+DT.NFL.DPPG.CD,"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",net_flow,62583919784.4,62.5839197844
+DT.DIS.PNGB.CD,"PNG, bonds (DIS, current US$)",other_debt_monetary,61757411839.2,61.757411839199996
+DT.DIS.PBND.GG.CD,"GG, bonds (DIS, current US$)",other_debt_monetary,60848241547.2,60.8482415472
+DT.TDS.MLAT.CD,"Multilateral debt service (TDS, current US$)",debt_service,60253650135.5,60.2536501355
+DT.DIS.PCBK.CD,"PPG, commercial banks (DIS, current US$)",other_debt_monetary,59472769248.1,59.4727692481
+DT.AXA.PRVT.CD,"Principal arrears, private creditors (current US$)",other_debt_monetary,59429462751.2,59.4294627512
+DT.DIS.PCBK.PS.CD,"PS, commercial banks (DIS, current US$)",other_debt_monetary,59185090732.7,59.1850907327
+DT.TDS.PBND.OPS.CD,"OPS, bonds (TDS, current US$)",other_debt_monetary,58007169274.1,58.0071692741
+DT.NTR.OFFT.PS.CD,"PS, official creditors (NTR, current US$)",other_debt_monetary,57454733882.5,57.4547338825
+DT.NTR.OFFT.CD,"PPG, official creditors (NTR, current US$)",other_debt_monetary,57335712669.9,57.335712669900005
+DT.INT.PNGC.CD,"PNG, commercial banks and other creditors (INT, current US$)",other_debt_monetary,54303934800.6,54.3039348006
+DT.INT.PBND.GG.CD,"GG, bonds (INT, current US$)",other_debt_monetary,53415696269.7,53.4156962697
+DT.TDS.PCBK.CD,"PPG, commercial banks (TDS, current US$)",other_debt_monetary,52326451596.0,52.326451596
+DT.TDS.PCBK.PS.CD,"PS, commercial banks (TDS, current US$)",other_debt_monetary,52056488163.0,52.056488163
+DT.DIS.PBND.OPS.CD,"OPS, bonds (DIS, current US$)",other_debt_monetary,49372533867.4,49.3725338674
+DT.DOD.DECB.CD,"External debt stocks, central bank (PPG) (DOD, current US$)",debt_stock,46715323646.8,46.7153236468
+DT.COM.BLAT.CD,"Commitments, bilateral creditors (COM, current US$)",commitment,42599374433.0,42.599374433
+DT.AMT.PCBK.CD,"PPG, commercial banks (AMT, current US$)",other_debt_monetary,42362415691.4,42.3624156914
+DT.AMT.PCBK.PS.CD,"PS, commercial banks (AMT, current US$)",other_debt_monetary,42158124212.4,42.158124212400004
+DT.NFL.DEGG.CD,"Net flows on external debt, general government sector (PPG) (NFL, current US$)",net_flow,41696605817.7,41.6966058177
+DT.AMT.PBND.OPS.CD,"OPS, bonds (AMT, current US$)",other_debt_monetary,41320219437.2,41.320219437199995
+DT.DIS.PCBK.OPS.CD,"OPS, commercial banks (DIS, current US$)",other_debt_monetary,41177165875.1,41.1771658751
+DT.DOD.OFFT.CB.CD,"CB, official creditors (DOD, current US$)",other_debt_monetary,40242415718.2,40.2424157182
+DT.INT.PNGB.CD,"PNG, bonds (INT, current US$)",other_debt_monetary,36404096354.5,36.4040963545
+DT.TDS.PCBK.OPS.CD,"OPS, commercial banks (TDS, current US$)",other_debt_monetary,35521784127.5,35.5217841275
+DT.INT.DOPS.CD,"Interest payments on external debt, other public sector (PPG) (INT, current US$)",interest_payment,30537491529.4,30.5374915294
+DT.COM.MIBR.CD,"Commitments, IBRD (COM, current US$)",commitment,28649367336.1,28.6493673361
+DT.AMT.PCBK.OPS.CD,"OPS, commercial banks (AMT, current US$)",other_debt_monetary,28460768102.8,28.4607681028
+DT.COM.MIDA.CD,"Commitments, IDA (COM, current US$)",commitment,25033407243.0,25.033407243
+DT.AXA.OFFT.CD,"Principal arrears, official creditors (current US$)",other_debt_monetary,23910958648.2,23.9109586482
+DT.INT.OFFT.CD,"PPG, official creditors (INT, current US$)",other_debt_monetary,23753160004.3,23.7531600043
+DT.INT.OFFT.PS.CD,"PS, official creditors (INT, current US$)",other_debt_monetary,23724789502.7,23.724789502700002
+DT.INT.VPPG.CD,"Interest payments on variable rate external debt, public and publicly guaranteed (PPG) (INT, current US$)",interest_payment,21323342768.7,21.3233427687
+DT.TDS.OFFT.OPS.CD,"OPS, official creditors (TDS, current US$)",other_debt_monetary,19791255451.2,19.7912554512
+DT.DOD.PRPG.CD,"External debt stocks, private guaranteed by public sector (PPG) (DOD, current US$)",debt_stock,19709729576.0,19.709729576
+DT.NFL.DOPS.CD,"Net flows on external debt, other public sector (PPG) (NFL, current US$)",net_flow,19572918157.399998,19.572918157399997
+DT.INT.OFFT.GG.CD,"GG, official creditors (INT, current US$)",other_debt_monetary,19398845064.3,19.398845064299998
+DT.DOD.PBND.PRVG.CD,"PRVG, bonds (DOD, current US$)",other_debt_monetary,17129703976.0,17.129703976
+DT.NFL.PCBK.CD,"PPG, commercial banks (NFL, current US$)",other_debt_monetary,17110354000.0,17.110354
+DT.NFL.PCBK.PS.CD,"PS, commercial banks (NFL, current US$)",other_debt_monetary,17026967000.0,17.026967
+DT.INT.PBND.OPS.CD,"OPS, bonds (INT, current US$)",other_debt_monetary,16686949835.699999,16.6869498357
+DT.NFL.DECT.CD,"Net flows on external debt, total (NFL, current US$)",net_flow,16597761817.799995,16.597761817799995
+DT.AMT.OFFT.OPS.CD,"OPS, official creditors (AMT, current US$)",other_debt_monetary,16591204163.8,16.5912041638
+DT.DIS.PCBK.GG.CD,"GG, commercial banks (DIS, current US$)",other_debt_monetary,15455855697.300001,15.4558556973
+DT.TDS.PCBK.GG.CD,"GG, commercial banks (TDS, current US$)",other_debt_monetary,14378574698.6,14.3785746986
+DT.DXR.DPPG.CD,Debt stock rescheduled (current US$),debt_stock,12995552741.8,12.9955527418
+DT.IXA.OFFT.CD,"Interest arrears, official creditors (current US$)",other_debt_monetary,12964522693.0,12.964522693
+DT.NFL.PCBK.OPS.CD,"OPS, commercial banks (NFL, current US$)",other_debt_monetary,12716396000.0,12.716396
+DT.DIS.OFFT.OPS.CD,"OPS, official creditors (DIS, current US$)",other_debt_monetary,12285412415.4,12.2854124154
+DT.AMT.PCBK.GG.CD,"GG, commercial banks (AMT, current US$)",other_debt_monetary,11785119252.3,11.7851192523
+DT.NFL.DLXF.CD,"Net flows on external debt, long-term (NFL, current US$)",net_flow,10451170000.0,10.45117
+DT.INT.PCBK.CD,"PPG, commercial banks (INT, current US$)",other_debt_monetary,9964035903.4,9.9640359034
+DT.INT.PCBK.PS.CD,"PS, commercial banks (INT, current US$)",other_debt_monetary,9898363949.0,9.898363949
+DT.DSF.DPPG.CD,Debt stock reduction (current US$),debt_stock,9065254912.0,9.065254912
+DT.NFL.PBND.OPS.CD,"OPS, bonds (NFL, current US$)",other_debt_monetary,8052314000.0,8.052314
+DT.NTR.PCBK.CD,"PPG, commercial banks (NTR, current US$)",other_debt_monetary,7146320000.0,7.14632
+DT.NTR.PCBK.PS.CD,"PS, commercial banks (NTR, current US$)",other_debt_monetary,7128605000.0,7.128605
+DT.INT.PCBK.OPS.CD,"OPS, commercial banks (INT, current US$)",other_debt_monetary,7061016021.9,7.0610160218999996
+DT.INT.DIMF.CD,"IMF credit and SDR allocations, charges (INT, current US$)",imf_credit,6969908073.0,6.969908073
+DT.DOD.PCBK.CB.CD,"CB, commercial banks (DOD, current US$)",other_debt_monetary,5815711928.6,5.815711928600001
+DT.TDS.DECB.CD,"Debt service on external debt, central bank (PPG) (TDS, current US$)",debt_service,5797446315.099999,5.797446315099999
+DT.DIS.DECB.CD,"Disbursements on external debt, central bank (PPG) (DIS, current US$)",disbursement,5679725171.2,5.679725171199999
+DT.NTR.PCBK.OPS.CD,"OPS, commercial banks (NTR, current US$)",other_debt_monetary,5655381000.0,5.655381
+DT.DSB.DPPG.CD,Debt buyback (current US$),other_debt_monetary,5004736136.0,5.004736136
+DT.NFL.NIFC.CD,"IFC, private nonguaranteed (NFL, current US$)",other_debt_monetary,4692967946.0,4.692967946
+DT.AMT.DECB.CD,"Principal repayments on external debt, central bank (PPG) (AMT, current US$)",principal_repayment,4358065685.4,4.3580656854
+DT.TXR.DPPG.CD,Total amount of debt rescheduled (current US$),other_debt_monetary,4177584995.8,4.1775849958
+DT.AXR.DPPG.CD,Principal rescheduled (current US$),other_debt_monetary,3912593711.4,3.9125937114
+DT.INT.DIMF.US.CD,"IMF credit, charges (INT, current US$)",imf_credit,3874490183.2000003,3.8744901832000003
+DT.NFL.PCBK.GG.CD,"GG, commercial banks (NFL, current US$)",other_debt_monetary,3670737000.0,3.670737
+DT.INT.OFFT.OPS.CD,"OPS, official creditors (INT, current US$)",other_debt_monetary,3200051289.1,3.2000512890999997
+DT.TDS.OFFT.CB.CD,"CB, official creditors (TDS, current US$)",other_debt_monetary,3102416978.1,3.1024169781
+DT.DIS.OFFT.CB.CD,"CB, official creditors (DIS, current US$)",other_debt_monetary,2948383010.4,2.9483830104
+DT.NFL.PNGC.CD,"PNG, commercial banks and other creditors (NFL, current US$)",other_debt_monetary,2902673000.0,2.902673
+DT.INT.PCBK.GG.CD,"GG, commercial banks (INT, current US$)",other_debt_monetary,2593455446.2000003,2.5934554462
+DT.DIS.PCBK.CB.CD,"CB, commercial banks (DIS, current US$)",other_debt_monetary,2552069160.7,2.5520691607
+DT.AXR.PRVT.CD,"Principal rescheduled, private (current US$)",other_debt_monetary,2503215673.8,2.5032156738
+DT.TDS.PCBK.CB.CD,"CB, commercial banks (TDS, current US$)",other_debt_monetary,2156129337.0,2.156129337
+DT.AMT.OFFT.CB.CD,"CB, official creditors (AMT, current US$)",other_debt_monetary,1976523829.0,1.976523829
+DT.AMT.PCBK.CB.CD,"CB, commercial banks (AMT, current US$)",other_debt_monetary,1912236856.3,1.9122368562999998
+DT.INT.DECB.CD,"Interest payments on external debt, central bank (PPG) (INT, current US$)",interest_payment,1439380630.0,1.43938063
+DT.AXR.OFFT.CD,"Principal rescheduled, official (current US$)",other_debt_monetary,1409378037.2,1.4093780372
+DT.DOD.PCBK.PRVG.CD,"PRVG, commercial banks (DOD, current US$)",other_debt_monetary,1354808949.0,1.354808949
+DT.NFL.DECB.CD,"Net flows on external debt, central bank (PPG) (NFL, current US$)",net_flow,1321659486.2,1.3216594862
+DT.DOD.OFFT.PRVG.CD,"PRVG, official creditors (DOD, current US$)",other_debt_monetary,1225216651.0,1.225216651
+DT.INT.OFFT.CB.CD,"CB, official creditors (INT, current US$)",other_debt_monetary,1125893149.5,1.1258931495
+DT.NTR.PCBK.GG.CD,"GG, commercial banks (NTR, current US$)",other_debt_monetary,1077283000.0,1.077283
+DT.NFL.OFFT.CB.CD,"CB, official creditors (NFL, current US$)",other_debt_monetary,971859181.4,0.9718591813999999
+DT.TDS.PRPG.CD,"Debt service on external debt, private guaranteed by public sector (PPG) (TDS, current US$)",debt_service,947914930.2,0.9479149302000001
+DT.NFL.PCBK.CB.CD,"CB, commercial banks (NFL, current US$)",other_debt_monetary,639832000.0,0.639832
+DT.INT.PRPG.CD,"Interest payments on external debt, private guaranteed by public sector (PPG) (INT, current US$)",interest_payment,566504949.3,0.5665049493
+DT.TDS.PBND.PRVG.CD,"PRVG, bonds (TDS, current US$)",other_debt_monetary,472462493.0,0.472462493
+DT.INT.PBND.PRVG.CD,"PRVG, bonds (INT, current US$)",other_debt_monetary,472462493.0,0.472462493
+DT.DOD.PBND.CB.CD,"CB, bonds (DOD, current US$)",other_debt_monetary,463295000.0,0.463295
+DT.NTR.PCBK.CB.CD,"CB, commercial banks (NTR, current US$)",other_debt_monetary,395939000.0,0.395939
+DT.TDS.PBND.CB.CD,"CB, bonds (TDS, current US$)",other_debt_monetary,394716000.0,0.394716
+DT.AMT.PRPG.CD,"Principal repayments on external debt, private guaranteed by public sector (PPG) (AMT, current US$)",principal_repayment,381409980.9,0.3814099809
+DT.DIS.PRPG.CD,"Disbursements on external debt, private guaranteed by public sector (PPG) (DIS, current US$)",disbursement,374146306.2,0.3741463062
+DT.AMT.PBND.CB.CD,"CB, bonds (AMT, current US$)",other_debt_monetary,329584000.0,0.329584
+DT.DIS.PCBK.PRVG.CD,"PRVG, commercial banks (DIS, current US$)",other_debt_monetary,287678515.2,0.2876785152
+DT.TDS.PCBK.PRVG.CD,"PRVG, commercial banks (TDS, current US$)",other_debt_monetary,269963433.3,0.2699634333
+DT.INT.PCBK.CB.CD,"CB, commercial banks (INT, current US$)",other_debt_monetary,243892480.5,0.2438924805
+DT.TDS.OFFT.PRVG.CD,"PRVG, official creditors (TDS, current US$)",other_debt_monetary,205489003.9,0.2054890039
+DT.AMT.PCBK.PRVG.CD,"PRVG, commercial banks (AMT, current US$)",other_debt_monetary,204291478.6,0.2042914786
+DT.AMT.OFFT.PRVG.CD,"PRVG, official creditors (AMT, current US$)",other_debt_monetary,177118502.29999998,0.17711850229999998
+DT.AXF.DPPG.CD,Principal forgiven (current US$),other_debt_monetary,153506541.6,0.1535065416
+DT.DOD.MDRI.CD,Debt forgiveness grants (current US$),debt_relief,109929536.0,0.109929536
+DT.DIS.OFFT.PRVG.CD,"PRVG, official creditors (DIS, current US$)",other_debt_monetary,86467791.0,0.086467791
+DT.NFL.PCBK.PRVG.CD,"PRVG, commercial banks (NFL, current US$)",other_debt_monetary,83387000.0,0.083387
+DT.INT.PCBK.PRVG.CD,"PRVG, commercial banks (INT, current US$)",other_debt_monetary,65671954.7,0.06567195470000001
+DT.INT.PBND.CB.CD,"CB, bonds (INT, current US$)",other_debt_monetary,65132000.0,0.065132
+DT.INT.OFFT.PRVG.CD,"PRVG, official creditors (INT, current US$)",other_debt_monetary,28370501.6,0.0283705016
+DT.NTR.PCBK.PRVG.CD,"PRVG, commercial banks (NTR, current US$)",other_debt_monetary,17715000.0,0.017715
+DT.NFL.PBND.PRVG.CD,"PRVG, bonds (NFL, current US$)",other_debt_monetary,0.0,0.0
+DT.DIS.PBND.PRVG.CD,"PRVG, bonds (DIS, current US$)",other_debt_monetary,0.0,0.0
+DT.NFL.PRPG.CD,"Net flows on external debt, private guaranteed by public sector (PPG) (NFL, current US$)",net_flow,-7263674.700000007,-0.007263674700000007
+DT.NFL.OFFT.PRVG.CD,"PRVG, official creditors (NFL, current US$)",other_debt_monetary,-90650711.3,-0.09065071129999999
+DT.NTR.DECB.CD,"Net transfers on external debt, central bank (PPG) (NTR, current US$)",net_flow,-117721143.80000001,-0.11772114380000001
+DT.NTR.OFFT.PRVG.CD,"PRVG, official creditors (NTR, current US$)",other_debt_monetary,-119021212.9,-0.1190212129
+DT.NTR.OFFT.CB.CD,"CB, official creditors (NTR, current US$)",other_debt_monetary,-154033968.10000008,-0.15403396810000008
+DT.NFL.PBND.CB.CD,"CB, bonds (NFL, current US$)",other_debt_monetary,-329584000.0,-0.329584
+DT.NTR.PBND.CB.CD,"CB, bonds (NTR, current US$)",other_debt_monetary,-394716000.0,-0.394716
+DT.NTR.PBND.PRVG.CD,"PRVG, bonds (NTR, current US$)",other_debt_monetary,-472462493.0,-0.472462493
+DT.NTR.PRPG.CD,"Net transfers on external debt, private guaranteed by public sector (PPG) (NTR, current US$)",net_flow,-573768624.0,-0.573768624
+DT.DFR.DPPG.CD,Debt forgiveness or reduction (current US$),debt_relief,-4214025318.6,-4.2140253186
+DT.NFL.OFFT.OPS.CD,"OPS, official creditors (NFL, current US$)",other_debt_monetary,-4305791748.4,-4.3057917484
+DT.NFL.DSTC.CD,"Net flows on external debt, short-term (NFL, current US$)",net_flow,-7007398000.0,-7.007398
+DT.NTR.OFFT.OPS.CD,"OPS, official creditors (NTR, current US$)",other_debt_monetary,-7505843037.0,-7.505843037
+DT.NTR.PBND.OPS.CD,"OPS, bonds (NTR, current US$)",other_debt_monetary,-8634635407.5,-8.6346354075
+DT.NTR.DOPS.CD,"Net transfers on external debt, other public sector (PPG) (NTR, current US$)",net_flow,-10964573373.3,-10.964573373299999
+DT.DOD.RSDL.CD,"Residual, debt stock-flow reconciliation (current US$)",debt_stock,-33045572883.4,-33.0455728834
+DT.NTR.DEGG.CD,"Net transfers on external debt, general government sector (PPG) (NTR, current US$)",net_flow,-34066852921.999996,-34.066852921999995
+DT.NFL.PBND.PS.CD,"PS, bonds (NFL, current US$)",other_debt_monetary,-38129899000.0,-38.129899
+DT.NFL.PBND.CD,"PPG, bonds (NFL, current US$)",other_debt_monetary,-38129899000.0,-38.129899
+DT.NTR.DEPS.CD,"Net transfers on external debt, public sector (PPG) (NTR, current US$)",net_flow,-45149147437.9,-45.1491474379
+DT.NTR.DPPG.CD,"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",net_flow,-45722916060.8,-45.7229160608
+DT.NFL.PBND.GG.CD,"GG, bonds (NFL, current US$)",other_debt_monetary,-45852629000.0,-45.852629
+DT.NTR.PNGC.CD,"PNG, commercial banks and other creditors (NTR, current US$)",other_debt_monetary,-51401260000.0,-51.40126
+DT.NFL.DPNG.CD,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",net_flow,-52132748000.0,-52.132748
+DT.NFL.PNGB.CD,"PNG, bonds (NFL, current US$)",other_debt_monetary,-55035421000.0,-55.035421
+DT.NTR.PNGB.CD,"PNG, bonds (NTR, current US$)",other_debt_monetary,-91439517000.0,-91.439517
+DT.NTR.PBND.GG.CD,"GG, bonds (NTR, current US$)",other_debt_monetary,-99268326630.59999,-99.26832663059999
+DT.NTR.PBND.PS.CD,"PS, bonds (NTR, current US$)",other_debt_monetary,-108297678039.0,-108.297678039
+DT.NTR.PBND.CD,"PPG, bonds (NTR, current US$)",other_debt_monetary,-108770140532.0,-108.770140532
+DT.DOD.DECT.CD.CG,Total change in external debt stocks (current US$),debt_stock,-113546665897.30002,-113.54666589730002
+DT.NTR.DPNG.CD,"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",net_flow,-142840778000.0,-142.840778
+DT.NTR.DLXF.CD,"Net transfers on external debt, long-term (NTR, current US$)",net_flow,-188564118000.0,-188.564118
+DT.NTR.DECT.CD,"Net transfers on external debt, total (NTR, current US$)",net_flow,-279545874962.4,-279.54587496240003

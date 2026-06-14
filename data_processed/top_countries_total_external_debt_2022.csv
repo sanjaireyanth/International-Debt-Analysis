@@ -1,0 +1,21 @@
+country_name,country_code,region,income_group,year,debt_value_usd,value_billions_usd
+China,CHN,East Asia & Pacific,Upper middle income,2022,2530500000000.0,2530.5
+India,IND,South Asia,Lower middle income,2022,615515000000.0,615.515
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2022,585862000000.0,585.862
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2022,579258000000.0,579.258
+Turkiye,TUR,Europe & Central Asia,Upper middle income,2022,455963000000.0,455.963
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2022,395986000000.0,395.986
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2022,248977000000.0,248.977
+Thailand,THA,East Asia & Pacific,Upper middle income,2022,201051000000.0,201.051
+Colombia,COL,Latin America & Caribbean,Upper middle income,2022,184496000000.0,184.496
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2022,171732000000.0,171.732
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2022,169570000000.0,169.57
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2022,163111000000.0,163.111
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2022,146622000000.0,146.622
+Ukraine,UKR,Europe & Central Asia,Upper middle income,2022,143391000000.0,143.391
+Pakistan,PAK,Middle East & North Africa,Lower middle income,2022,127601000000.0,127.601
+Philippines,PHL,East Asia & Pacific,Lower middle income,2022,110776000000.0,110.776
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2022,103064000000.0,103.064
+Bangladesh,BGD,South Asia,Lower middle income,2022,96944431751.0,96.944431751
+Peru,PER,Latin America & Caribbean,Upper middle income,2022,91689317833.0,91.689317833
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2022,67100895978.0,67.100895978

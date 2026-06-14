@@ -1,0 +1,44 @@
+{
+  "raw_shape": [
+    62983,
+    69
+  ],
+  "after_duplicate_removal_shape": [
+    62981,
+    69
+  ],
+  "filtered_wide_shape": [
+    26741,
+    69
+  ],
+  "year_start": "2010",
+  "year_end": "2022",
+  "cleaned_rows": 238079,
+  "countries": 120,
+  "indicators": 243,
+  "missing_values_after_cleaning": 0,
+  "generated_files": [
+    "debt_cleaned_long.csv",
+    "countries.csv",
+    "indicators.csv",
+    "debt_data.csv",
+    "top_countries_total_external_debt_2022.csv",
+    "indicator_totals_2022.csv",
+    "region_total_external_debt_2022.csv",
+    "global_total_external_debt_trend.csv"
+  ],
+  "summary": {
+    "main_year": 2022,
+    "row_count": 238079,
+    "country_count": 120,
+    "indicator_count": 243,
+    "total_external_debt_usd": 8682571533789.501,
+    "total_external_debt_billions_usd": 8682.571533789502,
+    "top_country": "China",
+    "top_country_debt_billions_usd": 2530.5,
+    "lowest_country": "Tonga",
+    "lowest_country_debt_billions_usd": 0.20992723419999998,
+    "top_indicator": "External debt stocks, total (DOD, current US$)",
+    "top_indicator_billions_usd": 8682.5715337895
+  }
+}

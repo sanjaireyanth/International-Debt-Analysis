@@ -1,0 +1,7 @@
+World Bank International Debt Statistics
+
+Dataset page:
+https://databank.worldbank.org/source/international-debt-statistics
+
+CSV download:
+https://databankfiles.worldbank.org/public/ddpext_download/IDS_CSV.zip

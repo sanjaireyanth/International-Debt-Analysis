@@ -1,0 +1,121 @@
+country_code,country_name,short_name,region,income_group,lending_category,currency_unit
+AFG,Afghanistan,Afghanistan,Middle East & North Africa,Low income,IDA,Afghan afghani
+ALB,Albania,Albania,Europe & Central Asia,Upper middle income,IBRD,Albanian lek
+DZA,Algeria,Algeria,Middle East & North Africa,Upper middle income,IBRD,Algerian dinar
+AGO,Angola,Angola,Sub-Saharan Africa,Lower middle income,IBRD,Angolan kwanza
+ARG,Argentina,Argentina,Latin America & Caribbean,Upper middle income,IBRD,Argentine peso
+ARM,Armenia,Armenia,Europe & Central Asia,Upper middle income,IBRD,Armenian dram
+AZE,Azerbaijan,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD,New Azeri manat
+BGD,Bangladesh,Bangladesh,South Asia,Lower middle income,IDA,Bangladeshi taka
+BLR,Belarus,Belarus,Europe & Central Asia,Upper middle income,IBRD,Belarusian rubel
+BLZ,Belize,Belize,Latin America & Caribbean,Upper middle income,Blend,Belize dollar
+BEN,Benin,Benin,Sub-Saharan Africa,Lower middle income,IDA,West African CFA franc
+BTN,Bhutan,Bhutan,South Asia,Lower middle income,IDA,Bhutanese ngultrum
+BOL,Bolivia,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,IBRD,Bolivian Boliviano
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD,Bosnia and Herzegovina convertible mark
+BWA,Botswana,Botswana,Sub-Saharan Africa,Upper middle income,IBRD,Botswana pula
+BRA,Brazil,Brazil,Latin America & Caribbean,Upper middle income,IBRD,Brazilian real
+BFA,Burkina Faso,Burkina Faso,Sub-Saharan Africa,Low income,IDA,West African CFA franc
+BDI,Burundi,Burundi,Sub-Saharan Africa,Low income,IDA,Burundi franc
+CPV,Cabo Verde,Cabo Verde,Sub-Saharan Africa,Upper middle income,Blend,Cabo Verde escudo
+KHM,Cambodia,Cambodia,East Asia & Pacific,Lower middle income,IDA,Cambodian riel
+CMR,Cameroon,Cameroon,Sub-Saharan Africa,Lower middle income,Blend,Central African CFA franc
+CAF,Central African Republic,Central African Republic,Sub-Saharan Africa,Low income,IDA,Central African CFA franc
+TCD,Chad,Chad,Sub-Saharan Africa,Low income,IDA,Central African CFA franc
+CHN,China,China,East Asia & Pacific,Upper middle income,IBRD,Chinese yuan
+COL,Colombia,Colombia,Latin America & Caribbean,Upper middle income,IBRD,Colombian peso
+COM,Comoros,Comoros,Sub-Saharan Africa,Lower middle income,IDA,Comorian franc
+COD,"Congo, Dem. Rep.","Congo, Democratic Republic of",Sub-Saharan Africa,Low income,IDA,Congolese franc
+COG,"Congo, Rep.","Congo, Republic of",Sub-Saharan Africa,Lower middle income,Blend,Central African CFA franc
+CIV,Cote d'Ivoire,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,Blend,West African CFA franc
+DJI,Djibouti,Djibouti,Middle East & North Africa,Lower middle income,IDA,Djibouti franc
+DMA,Dominica,Dominica,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar
+DOM,Dominican Republic,Dominican Republic,Latin America & Caribbean,Upper middle income,IBRD,Dominican peso
+ECU,Ecuador,Ecuador,Latin America & Caribbean,Upper middle income,IBRD,U.S. dollar
+EGY,"Egypt, Arab Rep.","Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,IBRD,Egyptian pound
+SLV,El Salvador,El Salvador,Latin America & Caribbean,Upper middle income,IBRD,U.S. dollar
+GNQ,Equatorial Guinea,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,IBRD,Central African CFA franc
+ERI,Eritrea,Eritrea,Sub-Saharan Africa,Low income,IDA,Eritrean nakfa
+SWZ,Eswatini,Eswatini,Sub-Saharan Africa,Lower middle income,Blend,Swazi lilangeni
+ETH,Ethiopia,Ethiopia,Sub-Saharan Africa,,IDA,Ethiopian birr
+FJI,Fiji,Fiji,East Asia & Pacific,Upper middle income,Blend,Fijian dollar
+GAB,Gabon,Gabon,Sub-Saharan Africa,Upper middle income,IBRD,Central African CFA franc
+GMB,"Gambia, The","Gambia, The",Sub-Saharan Africa,Low income,IDA,Gambian dalasi
+GEO,Georgia,Georgia,Europe & Central Asia,Upper middle income,IBRD,Georgian lari
+GHA,Ghana,Ghana,Sub-Saharan Africa,Lower middle income,IDA,New Ghanaian cedi
+GRD,Grenada,Grenada,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar
+GTM,Guatemala,Guatemala,Latin America & Caribbean,Upper middle income,IBRD,Guatemalan quetzal
+GIN,Guinea,Guinea,Sub-Saharan Africa,Lower middle income,IDA,Guinean franc
+GNB,Guinea-Bissau,Guinea-Bissau,Sub-Saharan Africa,Low income,IDA,West African CFA franc
+GUY,Guyana,Guyana,Latin America & Caribbean,High income,IDA,Guyana dollar
+HTI,Haiti,Haiti,Latin America & Caribbean,Lower middle income,IDA,Haitian gourde
+HND,Honduras,Honduras,Latin America & Caribbean,Lower middle income,IDA,Honduran lempira
+IND,India,India,South Asia,Lower middle income,IBRD,Indian rupee
+IDN,Indonesia,Indonesia,East Asia & Pacific,Upper middle income,IBRD,Indonesian rupiah
+IRN,"Iran, Islamic Rep.","Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,IBRD,Iranian rial
+IRQ,Iraq,Iraq,Middle East & North Africa,Upper middle income,IBRD,Iraqi dinar
+JAM,Jamaica,Jamaica,Latin America & Caribbean,Upper middle income,IBRD,Jamaican dollar
+JOR,Jordan,Jordan,Middle East & North Africa,Lower middle income,IBRD,Jordanian dinar
+KAZ,Kazakhstan,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD,Kazakh tenge
+KEN,Kenya,Kenya,Sub-Saharan Africa,Lower middle income,Blend,Kenyan shilling
+XKX,Kosovo,Kosovo,Europe & Central Asia,Upper middle income,IDA,Euro
+KGZ,Kyrgyz Republic,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA,Kyrgyz som
+LAO,Lao PDR,Lao PDR,East Asia & Pacific,Lower middle income,IDA,Lao kip
+LBN,Lebanon,Lebanon,Middle East & North Africa,Lower middle income,IBRD,Lebanese pound
+LSO,Lesotho,Lesotho,Sub-Saharan Africa,Lower middle income,IDA,Lesotho loti
+LBR,Liberia,Liberia,Sub-Saharan Africa,Low income,IDA,Liberian dollar
+MDG,Madagascar,Madagascar,Sub-Saharan Africa,Low income,IDA,Malagasy ariary
+MWI,Malawi,Malawi,Sub-Saharan Africa,Low income,IDA,Malawi kwacha
+MDV,Maldives,Maldives,South Asia,Upper middle income,IDA,Maldivian rufiyaa
+MLI,Mali,Mali,Sub-Saharan Africa,Low income,IDA,West African CFA franc
+MRT,Mauritania,Mauritania,Sub-Saharan Africa,Lower middle income,IDA,Mauritanian ouguiya
+MUS,Mauritius,Mauritius,Sub-Saharan Africa,Upper middle income,IBRD,Mauritian rupee
+MEX,Mexico,Mexico,Latin America & Caribbean,Upper middle income,IBRD,Mexican peso
+MDA,Moldova,Moldova,Europe & Central Asia,Upper middle income,IBRD,Moldovan leu
+MNG,Mongolia,Mongolia,East Asia & Pacific,Upper middle income,IBRD,Mongolian tugrik
+MNE,Montenegro,Montenegro,Europe & Central Asia,Upper middle income,IBRD,Euro
+MAR,Morocco,Morocco,Middle East & North Africa,Lower middle income,IBRD,Moroccan dirham
+MOZ,Mozambique,Mozambique,Sub-Saharan Africa,Low income,IDA,New Mozambican metical
+MMR,Myanmar,Myanmar,East Asia & Pacific,Lower middle income,IDA,Myanmar kyat
+NPL,Nepal,Nepal,South Asia,Lower middle income,IDA,Nepalese rupee
+NIC,Nicaragua,Nicaragua,Latin America & Caribbean,Lower middle income,IDA,Nicaraguan gold cordoba
+NER,Niger,Niger,Sub-Saharan Africa,Low income,IDA,West African CFA franc
+NGA,Nigeria,Nigeria,Sub-Saharan Africa,Lower middle income,Blend,Nigerian naira
+MKD,North Macedonia,North Macedonia,Europe & Central Asia,Upper middle income,IBRD,Macedonian denar
+PAK,Pakistan,Pakistan,Middle East & North Africa,Lower middle income,Blend,Pakistani rupee
+PNG,Papua New Guinea,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend,Papua New Guinea kina
+PRY,Paraguay,Paraguay,Latin America & Caribbean,Upper middle income,IBRD,Paraguayan guarani
+PER,Peru,Peru,Latin America & Caribbean,Upper middle income,IBRD,Peruvian new sol
+PHL,Philippines,Philippines,East Asia & Pacific,Lower middle income,IBRD,Philippine peso
+RWA,Rwanda,Rwanda,Sub-Saharan Africa,Low income,IDA,Rwandan franc
+WSM,Samoa,Samoa,East Asia & Pacific,Upper middle income,IDA,Samoan tala
+STP,Sao Tome and Principe,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,IDA,São Tomé and Principe dobra
+SEN,Senegal,Senegal,Sub-Saharan Africa,Lower middle income,IDA,West African CFA franc
+SRB,Serbia,Serbia,Europe & Central Asia,Upper middle income,IBRD,New Serbian dinar
+SLE,Sierra Leone,Sierra Leone,Sub-Saharan Africa,Low income,IDA,Sierra Leonean leone
+SLB,Solomon Islands,Solomon Islands,East Asia & Pacific,Lower middle income,IDA,Solomon Islands dollar
+SOM,"Somalia, Fed. Rep.","Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,IDA,Somali shilling
+ZAF,South Africa,South Africa,Sub-Saharan Africa,Upper middle income,IBRD,South African rand
+LKA,Sri Lanka,Sri Lanka,South Asia,Lower middle income,IDA,Sri Lankan rupee
+LCA,St. Lucia,St. Lucia,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar
+VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,Blend,East Caribbean dollar
+SDN,Sudan,Sudan,Sub-Saharan Africa,Low income,IDA,Sudanese pound
+SUR,Suriname,Suriname,Latin America & Caribbean,Upper middle income,Blend,Suriname dollar
+SYR,Syrian Arab Republic,Syrian Arab Republic,Middle East & North Africa,Low income,IDA,Syrian pound
+TJK,Tajikistan,Tajikistan,Europe & Central Asia,Lower middle income,IDA,Tajik somoni
+TZA,Tanzania,Tanzania,Sub-Saharan Africa,Lower middle income,IDA,Tanzanian shilling
+THA,Thailand,Thailand,East Asia & Pacific,Upper middle income,IBRD,Thai baht
+TLS,Timor-Leste,Timor-Leste,East Asia & Pacific,Lower middle income,Blend,U.S. dollar
+TGO,Togo,Togo,Sub-Saharan Africa,Low income,IDA,West African CFA franc
+TON,Tonga,Tonga,East Asia & Pacific,Upper middle income,IDA,Tongan pa'anga
+TUN,Tunisia,Tunisia,Middle East & North Africa,Lower middle income,IBRD,Tunisian dinar
+TUR,Turkiye,Türkiye,Europe & Central Asia,Upper middle income,IBRD,New Turkish lira
+TKM,Turkmenistan,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD,New Turkmen manat
+UGA,Uganda,Uganda,Sub-Saharan Africa,Low income,IDA,Ugandan shilling
+UKR,Ukraine,Ukraine,Europe & Central Asia,Upper middle income,IBRD,Ukrainian hryvnia
+UZB,Uzbekistan,Uzbekistan,Europe & Central Asia,Lower middle income,Blend,Uzbek som
+VUT,Vanuatu,Vanuatu,East Asia & Pacific,Lower middle income,IDA,Vanuatu vatu
+VNM,Viet Nam,Viet Nam,East Asia & Pacific,Lower middle income,IBRD,Vietnamese dong
+YEM,"Yemen, Rep.","Yemen, Republic of",Middle East & North Africa,Low income,IDA,Yemeni rial
+ZMB,Zambia,Zambia,Sub-Saharan Africa,Lower middle income,IDA,New Zambian kwacha
+ZWE,Zimbabwe,Zimbabwe,Sub-Saharan Africa,Lower middle income,Blend,Zimbabwean Zimbabwe Gold
